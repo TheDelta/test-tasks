@@ -54,9 +54,8 @@ This will run tests, coverage, documentation and builds the application and pack
 
 ## Documentation
 
-- Code Coverage [/coverage/index.html](./coverage/index.html)
-- Code Documentation [/build/docs/index.html](./build/docs/index.html)
-
+- Code Coverage `npm run cov` (opens automatically in browser)
+- Code Documentation `npm run doc` (opens automatically in browser)
 
 ## Tasks
 ### Labyrinth
